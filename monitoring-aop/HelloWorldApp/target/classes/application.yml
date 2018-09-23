@@ -1,0 +1,15 @@
+metrics:
+  reporter:
+    graphite:
+      enabled: true
+      port: 2003
+      period: 20
+      prefix: "com.qualys.apps.helloword"
+      hostname: "graphite"
+
+spring:
+  application:
+    name: helloworld
+
+server:
+  port: 8090

@@ -1,0 +1,5 @@
+com\qualys\common\monitoring\CustomMetricRegistry.class
+com\qualys\common\monitoring\Monitored.class
+com\qualys\common\monitoring\MonitoringAspect.class
+com\qualys\common\monitoring\MetricsConfig.class
+properties\GraphiteProperties.class

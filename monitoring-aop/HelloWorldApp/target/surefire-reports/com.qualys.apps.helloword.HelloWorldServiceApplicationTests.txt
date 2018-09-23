@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.qualys.apps.helloword.HelloWorldServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.149 sec - in com.qualys.apps.helloword.HelloWorldServiceApplicationTests

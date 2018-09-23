@@ -1,0 +1,4 @@
+com\qualys\apps\helloword\exceptions\BackendServiceException.class
+com\qualys\apps\helloword\config\ApplicationConfig.class
+com\qualys\apps\helloword\controllers\HelloWorldServiceController.class
+com\qualys\apps\helloword\HelloWorldServiceApplication.class
