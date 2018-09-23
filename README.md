@@ -22,3 +22,5 @@ Once the docker started access graphana as follows
 1. Create datasources
     * In graphana create data source UI set http://graphite as Http URL. Accept other defaults and click Save and Test.
     * Create dashboards using above datasource 
+2. SampleDashboards.json
+3. Using Postman hit REST APIs localhost:8090/exceptionDemo and localhost:8090/helloWorld and see graph for the activity updates
