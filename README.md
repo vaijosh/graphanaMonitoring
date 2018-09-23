@@ -9,9 +9,11 @@ From project run ```mvn clean install```
 ##Build Docker
 From project directory run
 ```docker-compose -f metrics.yml build```
+
 ##Start containers
 Run the entire stack including graphite, grafana
 ```docker-compose -f metrics.yml up```
+
 ##Graphana Configuration
 Once the docker started access graphana as follows
 1. Create datasources
